@@ -1,4 +1,4 @@
-V_SRCS := hdl/sim_top.v
+V_SRCS := hdl/sim_top.v hdl/sram.v
 SIM_TOP := sim_top
 SIM_SNAPSHOT := sim_snapshot
 
