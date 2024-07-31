@@ -1,3 +1,3 @@
 log_wave -recursive *
-run 800ns
+run 1ms
 exit
